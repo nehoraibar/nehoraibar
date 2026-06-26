@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Nehorai Bachur 👋
 
-<!--
-**nehoraibar/nehoraibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Graduate (California State University, Northridge)
 
-Here are some ideas to get you started:
+I'm passionate about designing intelligent electrical and embedded systems that combine power electronics, embedded programming, controls, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Areas of Interest
+
+- Energy Management Systems
+- Embedded Systems
+- Power Electronics
+- Renewable Energy
+- Control Systems
+- Machine Learning
+- Robotics
+- IoT
+
+---
+
+## 📌 Featured Projects
+
+### ⚡ Energy Management System (Senior Design)
+
+Intelligent EMS using Raspberry Pi 5, NVIDIA Jetson Orin Nano, MQTT, SQLite, Blynk IoT, LiFePO₄ battery management, and solar integration.
+
+➡️ Repository: *(Coming Soon)*
+
+---
+
+### 🌙 NASA L'SPACE – Project POLARIS
+
+Command & Data Handling (CDH) subsystem design for a lunar rover mission concept supporting NASA Artemis exploration.
+
+➡️ Repository: *(Coming Soon)*
+
+---
+
+### 🚗 Adaptive Cruise Control using Fuzzy Logic
+
+MATLAB/Simulink implementation of a Zero-Order Sugeno fuzzy controller for autonomous vehicle longitudinal control.
+
+➡️ Repository: *(Coming Soon)*
+
+---
+
+## 💻 Technical Skills
+
+**Programming**
+
+- Python
+- MATLAB
+- C/C++
+
+**Embedded Systems**
+
+- Raspberry Pi
+- NVIDIA Jetson
+- Arduino
+- STM32
+
+**Electrical Engineering**
+
+- Power Systems
+- Battery Management Systems
+- Solar Energy
+- Power Electronics
+- Control Systems
+
+**Software**
+
+- MATLAB/Simulink
+- LTspice
+- PSpice
+- SQLite
+- MQTT
+- Git
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
