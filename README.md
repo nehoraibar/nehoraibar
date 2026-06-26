@@ -79,4 +79,4 @@ MATLAB/Simulink implementation of a Zero-Order Sugeno fuzzy controller for auton
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/nehoraibachur/)
